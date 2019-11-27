@@ -3,16 +3,9 @@
 (lenguages):</p>
 <ul>
 
-<li>Html</li>
-<li>CSS</li>
-<li>JS</li> 
+ <li style="color:red;">Html</li>
+ <li style="color:green;">CSS</li>
+ <li style="color:blue;">JS</li> 
 
 </ul>
 
-<ul>
-
-<li style="color:red;">Html</li>
-<li style="color:green;">CSS</li>
-<li style="color:blue;">JS</li>
-
-</ul>
